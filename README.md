@@ -1,10 +1,10 @@
-[![masgimenz](https://github.com/Gimenz/Gimenz/blob/master/images/github-banner.jpg)](https://www.masgimenz.com)
+[![masgimenz](https://github.com/Gimenz/Gimenz/blob/master/images/github-banner.jpg?raw=true)](https://www.masgimenz.com)
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>I'm Gimenz</p>
 <p align='center'>
-<a href="https://twitter.com/masgimenz"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/xtrvts"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/dndyrka"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/facebook.png?raw=true"></a>
+<a href="https://twitter.com/masgimenz"><img height="30" src="https://github.com/Gimenz/Gimenz/blob/master/images/twitter.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/gimenz.id"><img height="30" src="https://github.com/Gimenz/Gimenz/blob/master/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/mg.ezpz"><img height="30" src="https://github.com/Gimenz/Gimenz/blob/master/images/facebook.svg?raw=true"></a>
 </p><br/>
 
 
