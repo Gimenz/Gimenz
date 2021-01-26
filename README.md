@@ -1,6 +1,6 @@
 
 ## Hi there, my name is Muhamad Ristiyanto <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
- ![Profile Views](https://komarev.com/ghpvc/?username=Gimenz&color=green)
+ ![Sing Ndelok](https://komarev.com/ghpvc/?username=Gimenz&color=green)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <img align="right" alt="GIF" height="170px" src="https://camo.githubusercontent.com/19de67baa6e5a6594c50a400d466144108a616b0/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" />
 
