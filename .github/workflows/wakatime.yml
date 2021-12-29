@@ -10,7 +10,7 @@ jobs:
     name: Gimenz this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@V3
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LOCALE: "in_ID"
