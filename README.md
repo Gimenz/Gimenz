@@ -12,7 +12,7 @@
 ### 📊 Github Stats
   <img alt="Gimenz's github stats" src="https://github-readme-stats.vercel.app/api?username=Gimenz&count_private=true&hide=issues&show_icons=true&include_all_commits=true&line_height=24&border_radius=0"/><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gimenz&layout=compact&border_radius=0"/>
 
-### ⌚ WakaTime
+### ⌚ Coding Stats
 <!--START_SECTION:waka-->
 ```text
 JavaScript   23 hrs 3 mins   ████████████████▓░░░░░░░░   66.68 % 
