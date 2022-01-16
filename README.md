@@ -15,10 +15,10 @@
 ### ⌚ Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   34 hrs 49 mins  ████████████████████▒░░░░   81.89 % 
-TypeScript   3 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-JSON         1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Text         1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Markdown     32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+JavaScript   30 hrs 12 mins  ████████████████████░░░░░   80.39 % 
+TypeScript   3 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+JSON         1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Text         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Markdown     32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 <!--END_SECTION:waka-->
