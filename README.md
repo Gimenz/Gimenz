@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   27 mins         ██████████████████████▓░░   90.19 %
-TypeScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
