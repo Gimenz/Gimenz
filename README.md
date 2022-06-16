@@ -1,8 +1,9 @@
 
-## Hi there, my name is Muhamad Ristiyanto <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hi there
  ![Sing Ndelok](https://komarev.com/ghpvc/?username=Gimenz&color=green)
 
 ### 👤 About Me
+* Web Scraping Enthusiast
 * 🤷‍♂️ 21 y.o ordinary boy interested in Back End Development
 * 🏠 Live at Magelang, Indonesia 
 
